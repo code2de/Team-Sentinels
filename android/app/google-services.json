@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "916104529842",
+    "project_id": "trustchain-8e72a",
+    "storage_bucket": "trustchain-8e72a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916104529842:android:7ac84e12acc068522c86ab",
+        "android_client_info": {
+          "package_name": "com.example.trustchain"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhBWDySUVENxExRgo0_XcOFT4WDmIscjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
