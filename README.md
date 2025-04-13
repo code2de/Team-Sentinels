@@ -5,7 +5,7 @@ Domain : Blockchain Technology
 
 TrustChain is a cross-platform review and trust rating app built using Flutter. It enables users to post and browse reviews with transparency and accountability. The app leverages Firebase for backend services and integrates with blockchain (via Ganache) for optional decentralized review validation.
 
-## 🔥 Highlights
+##  Highlights
 
 - Mobile App built with **Flutter** and **Dart**
 - Web App built with **React** and **MongoDB**
@@ -16,7 +16,7 @@ TrustChain is a cross-platform review and trust rating app built using Flutter. 
 
 ## 🚀 Features
 
-### ✅ Core Functionality
+### Core Functionality
 - **Onboarding Screens**  
   - Smooth image carousel with slide effect  
   - Country selector and navigation to Login/Signup
@@ -56,12 +56,12 @@ TrustChain is a cross-platform review and trust rating app built using Flutter. 
 - Firebase for Authentication, Firestore for data, and Storage for images
 - Integrates blockchain features via Ganache and MetaMask (backend in Node.js)
 
-## 🧠 Future Scope
+##  Future Scope
 
-- 🔍 **ML Model** to detect manipulated or fake reviews  
+-  **ML Model** to detect manipulated or fake reviews  
   - Analyze review text and user behavior  
   - Automatically flag suspicious users
-- 🧩 **Browser Extension**  
+-  **Browser Extension**  
   - Display trust scores and verified reviews while browsing e-commerce sites  
   - Real-time blockchain-verified review integration
 
