@@ -5,9 +5,18 @@ Domain : Blockchain Technology
 
 TrustChain is a cross-platform review and trust rating app built using Flutter. It enables users to post and browse reviews with transparency and accountability. The app leverages Firebase for backend services and integrates with blockchain (via Ganache) for optional decentralized review validation.
 
-## Features
+## 🔥 Highlights
 
-### Core Functionality
+- Mobile App built with **Flutter** and **Dart**
+- Web App built with **React** and **MongoDB**
+- **Blockchain-enabled** (via Ganache & MetaMask)
+- Firebase Authentication & Firestore
+- Future plans for **ML-powered review verification**
+- Vision to build a **browser extension** version
+
+## 🚀 Features
+
+### ✅ Core Functionality
 - **Onboarding Screens**  
   - Smooth image carousel with slide effect  
   - Country selector and navigation to Login/Signup
@@ -25,31 +34,46 @@ TrustChain is a cross-platform review and trust rating app built using Flutter. 
     - Optional blockchain submission
   - Search bar and category filters
 - **Navigation**
-  - Home, Explore, Profile screens
+  - Home, Explore, and Profile screens
   - Top-right hamburger drawer for profile/settings
 
-### Blockchain Integration
+### 🔗 Blockchain Integration
 - **Ganache-based Ethereum Smart Contracts**
-  - Reviews can be stored immutably on the blockchain
-  - Simulated local Ethereum environment using Ganache
-  - Planned integration with `web3dart` for Flutter
-  - Blockchain hash shown for verified reviews (coming soon)
+  - Reviews can be stored immutably on a local blockchain
+  - MetaMask integration for user wallet-based verification
+  - Node.js backend for smart contract interaction
+  - Planned: Blockchain hash shown for verified reviews
+- **web3dart** (Flutter Ethereum package – planned for mobile)
 
-### Web Compatibility
-- Flutter web version supported
-- Mouse tracking rendering issue resolved
+### 🌐 Web Application
+- Developed using **React**
+- Uses **MongoDB** for data storage
+- Focused on basic review browsing and creation UI
+- A lightweight version of the mobile experience
 
-## Tech Stack
+### 📱 Mobile Application
+- Built in **Flutter & Dart**
+- Firebase for Authentication, Firestore for data, and Storage for images
+- Integrates blockchain features via Ganache and MetaMask (backend in Node.js)
 
-- **Frontend**: Flutter (Mobile & Web)
-- **Backend**: Firebase (Authentication, Firestore, Storage)
-- **State Management**: Provider
-- **Blockchain**:
-  - Ganache (local Ethereum blockchain)
-  - Solidity (for smart contract logic)
-  - web3dart (Flutter Ethereum package - planned)
-- **Other Tools**:
-  - Node.js backend integration (in progress)
+## 🧠 Future Scope
+
+- 🔍 **ML Model** to detect manipulated or fake reviews  
+  - Analyze review text and user behavior  
+  - Automatically flag suspicious users
+- 🧩 **Browser Extension**  
+  - Display trust scores and verified reviews while browsing e-commerce sites  
+  - Real-time blockchain-verified review integration
+
+## 🛠️ Tech Stack
+
+| Platform | Technology |
+|----------|------------|
+| **Mobile** | Flutter, Dart, Firebase, web3dart (planned) |
+| **Web** | React.js, MongoDB |
+| **Blockchain** | Ganache, Solidity, MetaMask, Node.js |
+| **Backend (in progress)** | Node.js API for smart contracts |
+| **ML (future)** | Python / TensorFlow for fake review detection |
 
 ## Screenshots
 ![WhatsApp Image 2025-04-13 at 15 21 56_08955f40](https://github.com/user-attachments/assets/9aeba54f-08ff-408d-96af-a83aa52b2c7e)
