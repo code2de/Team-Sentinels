@@ -57,6 +57,10 @@ TrustChain is a cross-platform review and trust rating app built using Flutter. 
 ![WhatsApp Image 2025-04-13 at 15 23 33_3405cffc](https://github.com/user-attachments/assets/e4b41064-26c8-4784-a327-6c100c17c31c)
 ![WhatsApp Image 2025-04-13 at 15 24 26_e96707a1](https://github.com/user-attachments/assets/881af9a2-eb67-4329-aa4c-368e0b43ca64)
 
+![WhatsApp Image 2025-04-13 at 15 26 05_9a4369d1](https://github.com/user-attachments/assets/94eb097a-7383-4b90-9fc4-8377138c1132)
+![WhatsApp Image 2025-04-13 at 15 27 31_07321037](https://github.com/user-attachments/assets/ec904e31-8565-4771-be2b-6dff99181b09)
+
+
 ![WhatsApp Image 2025-04-13 at 15 30 49_2c7d6070](https://github.com/user-attachments/assets/dd32a7b5-48ab-46b5-a27b-6d9382704805)
 ![WhatsApp Image 2025-04-13 at 15 30 50_ccdcb18a](https://github.com/user-attachments/assets/cb0d1ff5-f25c-4f66-8b31-180531f0b031)
 ![WhatsApp Image 2025-04-13 at 15 30 50_4e818a04](https://github.com/user-attachments/assets/62a1bb3b-bdb4-4847-8004-0642cb5203c3)
